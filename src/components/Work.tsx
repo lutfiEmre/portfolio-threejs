@@ -62,7 +62,7 @@ const Work = () => {
                 <h4>Tools and features</h4>
                 <p>Javascript, TypeScript, React, Threejs</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <WorkImage image="/images/placeholder.jpg" alt="" />
             </div>
           ))}
         </div>

@@ -93,6 +93,7 @@ body {
 
 .techstack {
   width: 100%;
+  z-index: 40;
   position: relative;
   height: var(--vh);
   margin: auto;
