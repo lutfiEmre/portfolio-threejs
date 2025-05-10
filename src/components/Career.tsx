@@ -107,7 +107,7 @@ const Career = () => {
                 <h4> Front-End Developer</h4>
                 <h5> DataFex</h5>
               </div>
-              <h3> MAR 2023 - JULY 2023</h3>
+              <h3> MAR 2023 - JAN 2024</h3>
             </div>
             <p>
               Developed a fully functional website from scratch using HTML, CSS,

@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://github.com/lutfiEmre/portfolio-threejs",
+    "projectName": "To-do KanBan",
+    "category": "Portfolio / WebGL",
+    "languages": ["Next.js", "React", "Typescript", "TailwindCSS","ThreeJS", "Framer Motion"],
+    "image": "/images/portfolio.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/todolist",
+    "projectName": "To-do KanBan",
+    "category": "KanBan Project",
+    "languages": ["Next.js", "React", "Typescript", "TailwindCSS", "Framer Motion","Dnd Kit"],
+    "image": "/images/todolist.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/nftweb",
+    "projectName": "Kanban Board",
+    "category": "NFT Project",
+    "languages": ["Next.js","React", "TypeScript","TailwindCSS", "Framer Motion", "Swiper"],
+    "image": "/images/nftproject.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/restaurant-project",
+    "projectName": "Restaurant Project",
+    "category": "Restaurant",
+    "languages": ["Next.js","React", "TypeScript","TailwindCSS", "Framer Motion", "Swiper"],
+    "image": "/images/restaurantproject.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/rickandmorty-app",
+    "projectName": "Dental Clinic Project",
+    "category": "Health",
+    "languages": ["React", "Javascript","TailwindCSS","SASS","Emotion", "Framer Motion"],
+    "image": "/images/dentalclinicproject.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/rickandmorty-app",
+    "projectName": "Rick And Morty",
+    "category": "API Search Project",
+    "languages": ["Next.js","React", "TypeScript","TailwindCSS", "Framer Motion"],
+    "image": "/images/rickandmortyemrelutfi.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/nftmarketplace",
+    "projectName": "Nft Marketplace",
+    "category": "NFT Trading Platform",
+    "languages": ["Next.js","React", "TypeScript","TailwindCSS", "Framer Motion"],
+    "image": "/images/nftmarketplace.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/new-portfolio",
+    "projectName": "Cyberpunk Portfolio",
+    "category": "Personal Website",
+    "languages": ["NextJS","TypeScript","TailwindCSS","GSAP"],
+    "image": "/images/portfoliov2.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/smart-watch-store",
+    "projectName": "Smart Watch Store",
+    "category": "E-Commerce",
+    "languages": ["React", "TypeScript","TailwindCSS", "Express.js", "MongoDB"],
+    "image": "/images/smartwatch.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/React-CryptoHub",
+    "projectName": "Crypto Hub",
+    "category": "Crypto Sector",
+    "languages": ["React", "TypeScript","TailwindCSS", "Vite"],
+    "image": "/images/cryptohub.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/hotcoffeeblog",
+    "projectName": "Blog Website",
+    "category": "Blog",
+    "languages": ["NextJS","TypeScript","TailwindCSS","Swiper"],
+    "image": "/images/blogwebsite.png"
+  },
+  {
+    "url": "https://github.com/lutfiEmre/spotifyclone-nextjs",
+    "projectName": "Spotify Clone",
+    "category": "Music App",
+    "languages": ["NextJS","TypeScript","TailwindCSS"],
+    "image": "/images/spotifyclone.png"
+  }
+]

@@ -1,5 +1,6 @@
 .contact-section {
   margin: auto;
+  width: 70%;
   padding-bottom: 100px;
   margin-top: 100px;
 }
@@ -19,8 +20,15 @@
   opacity: 0.6;
 }
 .contact-box {
+  width: 100%;
   display: flex;
+  gap: 10px;
   flex-direction: column;
+}
+.contact-box a {
+  width: 80%;
+  display: flex;
+  gap: 30px;
 }
 .contact-flex p {
   margin-top: 10px;

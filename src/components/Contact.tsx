@@ -14,12 +14,8 @@ const Contact = () => {
                 mail@emrelutfi.com
               </a>
             </p>
-            <h4>Phone</h4>
-            <p>
-              <a href="tel:+919920782622" data-cursor="disable">
-                Forbidden
-              </a>
-            </p>
+
+
           </div>
           <div className="contact-box">
             <h4>Social</h4>
