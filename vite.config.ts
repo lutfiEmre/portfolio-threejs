@@ -8,4 +8,7 @@ export default defineConfig({
   plugins: [
       react(),
     tailwindcss()],
+    optimizeDeps: {
+        include: ['@react-pdf-viewer/core', 'pdfjs-dist']
+    }
 });
